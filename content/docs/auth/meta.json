@@ -1,0 +1,5 @@
+{
+  "title": "Authentication",
+  "icon": "HomeIcon",
+  "pages": ["guide", "components"]
+}

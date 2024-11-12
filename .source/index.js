@@ -1,0 +1,8 @@
+import { toRuntime, toRuntimeAsync } from "fumadocs-mdx"
+import * as docs_0 from "../content/docs/index.mdx?collection=docs&hash=3be1629ab412f75891034f78b2bc9450b89369dd9adb7a63da523d4ed3164647"
+import * as docs_1 from "../content/docs/auth/components.mdx?collection=docs&hash=3be1629ab412f75891034f78b2bc9450b89369dd9adb7a63da523d4ed3164647"
+import * as docs_2 from "../content/docs/auth/guide.mdx?collection=docs&hash=3be1629ab412f75891034f78b2bc9450b89369dd9adb7a63da523d4ed3164647"
+import * as docs_3 from "../content/docs/auth/index.mdx?collection=docs&hash=3be1629ab412f75891034f78b2bc9450b89369dd9adb7a63da523d4ed3164647"
+import * as meta_0 from "../content/docs/auth/meta.json?collection=meta&hash=3be1629ab412f75891034f78b2bc9450b89369dd9adb7a63da523d4ed3164647"
+export const docs = [toRuntime("doc", docs_0, {"path":"index.mdx","absolutePath":"C:/Users/Harit Joshi/for-devs/content/docs/index.mdx"}), toRuntime("doc", docs_1, {"path":"auth\\components.mdx","absolutePath":"C:/Users/Harit Joshi/for-devs/content/docs/auth/components.mdx"}), toRuntime("doc", docs_2, {"path":"auth\\guide.mdx","absolutePath":"C:/Users/Harit Joshi/for-devs/content/docs/auth/guide.mdx"}), toRuntime("doc", docs_3, {"path":"auth\\index.mdx","absolutePath":"C:/Users/Harit Joshi/for-devs/content/docs/auth/index.mdx"})];
+export const meta = [toRuntime("meta", meta_0, {"path":"auth\\meta.json","absolutePath":"C:/Users/Harit Joshi/for-devs/content/docs/auth/meta.json"})];
